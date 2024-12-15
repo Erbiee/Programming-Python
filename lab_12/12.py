@@ -38,15 +38,15 @@
 #     print("-")
 
 
-# 3
-from random import randint
+# # 3
+# from random import randint
 
-k = 2
-b = randint(0, 4)
-N = int(input())
-x = 1
-print(k, b, N)
+# k = 2
+# b = randint(0, 4)
+# N = int(input())
+# x = 1
+# print(k, b, N)
 
-for i in range(N):
-    x = k * x + b
-print(x)
+# for i in range(N):
+#     x = k * x + b
+# print(x)

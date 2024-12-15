@@ -81,12 +81,12 @@
 #         print("Обычный билет")
 
 
-# 8
-n = input()
-d = 0
-e = 0
-for i in range(len(n) - 1, -1, -1):
-    if n[i] == "1":
-        d += 2 ** e
-    e += 1
-print(d)
+# # 8
+# n = input()
+# d = 0
+# e = 0
+# for i in range(len(n) - 1, -1, -1):
+#     if n[i] == "1":
+#         d += 2 ** e
+#     e += 1
+# print(d)
